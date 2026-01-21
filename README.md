@@ -1,9 +1,13 @@
-** Screenshot of Output **
+# Screenshot of Output
+
 <img width="1249" height="986" alt="Screenshot 2026-01-21 122055" src="https://github.com/user-attachments/assets/a8a51c32-d5b3-4e0b-9d40-f61a42807251" />
 
 <img width="1240" height="1009" alt="Screenshot 2026-01-21 122122" src="https://github.com/user-attachments/assets/d8ea0d44-4bc4-4ee9-bee1-9dc468729816" />
 
-** Screenshot of PDF **
+
+
+# Screenshot of PDF 
+
 
 <img width="1897" height="913" alt="Screenshot 2026-01-21 122333" src="https://github.com/user-attachments/assets/889f9a9e-3049-4d01-bb44-58bb6f63666f" />
 
